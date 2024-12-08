@@ -1,0 +1,8 @@
+rasterio
+numpy
+geopandas
+shapely
+scipy
+pyproj
+fiona
+rtree
